@@ -4,7 +4,7 @@ Summary:	A docklet for XMMS
 Summary(pl):	Docklet dla XMMS
 Name:		xmms-general-status
 Version:	1.0
-Release:	3
+Release:	4
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://www.hellion.org.uk/source/%{_realname}-%{version}.tar.gz
