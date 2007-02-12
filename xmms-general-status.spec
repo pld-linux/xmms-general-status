@@ -1,7 +1,7 @@
 %define		_realname	xmms-status-plugin
 
 Summary:	A docklet for XMMS
-Summary(pl.UTF-8):   Docklet dla XMMS
+Summary(pl.UTF-8):	Docklet dla XMMS
 Name:		xmms-general-status
 Version:	1.0
 Release:	4
