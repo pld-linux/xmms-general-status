@@ -12,7 +12,7 @@ Source0:	http://www.hellion.org.uk/source/%{_realname}-%{version}.tar.gz
 URL:		http://www.hellion.org.uk/xmms-status-plugin/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	libtool
 BuildRequires:	rpmbuild(macros) >= 1.125
 BuildRequires:	xmms-devel
